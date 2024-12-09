@@ -8,11 +8,6 @@ public class Main {
         System.out.println("\n" + "Atividade Pessoa");
         pessoa.frase();
 
-        Calculadora calculadora = new Calculadora();
-
-        System.out.println("\n" + "Atividade calculadora");
-        System.out.println("Total: "+calculadora.dobro(3));
-
         Musica musica = new Musica();
 
         System.out.println("\n" + "Atividade Musica");
